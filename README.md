@@ -17,7 +17,7 @@ Rock Paper Scissors is a simple game where you compete against the computer. The
 ✅ Play against the computer
 <br>
 ✅ Randomized computer choices
-
+<br>
 ✅ User-friendly interface
-
+<br>
 ✅ Written in C++ with a simple structure
